@@ -1,8 +1,7 @@
-import React from 'react'
 
 const index = () => {
   return (
-    <div>index</div>
+    <div className="h-20 bg-blue-400 fixed left-0 top-0 w-full"></div>
   )
 }
 
